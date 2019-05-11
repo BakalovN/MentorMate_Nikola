@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MentorMate_Exercise\MentorMate_Exercise\bin\Debug\MentorMate_Exercise.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MentorMate_Exercise\MentorMate_Exercise\bin\Debug\MentorMate_Exercise.exe
+c:\users\user\documents\visual studio 2017\Projects\MentorMate_Exercise\MentorMate_Exercise\bin\Debug\MentorMate_Exercise.pdb
+c:\users\user\documents\visual studio 2017\Projects\MentorMate_Exercise\MentorMate_Exercise\obj\Debug\MentorMate_Exercise.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MentorMate_Exercise\MentorMate_Exercise\obj\Debug\MentorMate_Exercise.exe
+c:\users\user\documents\visual studio 2017\Projects\MentorMate_Exercise\MentorMate_Exercise\obj\Debug\MentorMate_Exercise.pdb
